@@ -8,4 +8,3 @@ O objetivo deste desafio é criar um site "quase" completo, incorporando todos o
 - Tabelas
 
 Este não é nem de longe um site completo, pois ainda carece de css e javascript, a ideia do desafio é usar HTML.
-Além disso, devem ser explorados outros recursos mencionados durante as aulas!
